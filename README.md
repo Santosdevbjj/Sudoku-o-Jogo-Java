@@ -185,10 +185,6 @@ java -cp out main.Main
 | Ativar/desativar modo rascunho | CTRL |
 | Apagar número ou rascunho | DELETE / BACKSPACE |
 
----
-
-> *"O mercado não contrata ferramenta. Contrata quem resolve problemas."*
-> — Meigarom Lopes
 
 ---
 
